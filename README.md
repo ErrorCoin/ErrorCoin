@@ -5,8 +5,6 @@
 It is a quip in the blockchain system. Everything you know is now dead.
 
 
-## Unfortunately, Github isn't allowing me to upload the full source, so you can download it [HERE](https://www.dropbox.com/s/kkzwb5u7apssh9o/ErrorCoin-Source.zip?dl=0) because I can't deal with this "FILE TOO BIG" or "TOO MANY FILES" nonsense. Sorry if that causes any inconveniences. At least you'll have the source and can follow directions without the `git clone` command.
-
 ## Compile instructions
 
 ## Ubuntu
